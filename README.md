@@ -23,8 +23,8 @@ Antes de começar, certifique-se de que você tenha:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/JunioVeras/Dalle3ImageGenerator.git
-   cd Dalle3ImageGenerator
+   git clone https://github.com/JunioVeras/TCC.git
+   cd TCC
    ```
 
 2. Instale as dependências:
